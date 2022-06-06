@@ -1,0 +1,3 @@
+Value1 how much damage bf get
+Recommended "0.05"
+Value2 bf stop hurting recommended "0.5"
